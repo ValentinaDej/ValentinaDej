@@ -75,14 +75,14 @@
 <p><a href="https://restio-server.onrender.com/" target="_blank">Link to repo back<a></p>
 </details>
 
-<!-- <details>
-<summary>GraphiQL App (team project)</summary>
-<p><b>Description</b>: GraphQL browser plugin clone with additional features, like localization and user auth.</p>
-<p><b>Stack</b>: react, typescript, mui, react-hook-form, yup, redux, redux-toolkit, graphql, firebase auth, codemirror, i18next, eslint, prettier</p>
-<p><a href="https://elian-cheng-graphiql.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/graphiql-app" target="_blank">Link to repo</a></p>
+<details>
+<summary>Patron4U (team project)</summary>
+<p><b>Description</b>: The app features a custom backend, responsive design, and a broad array of functionalities including user authentication, multi-theming, and extensive data handling.</p>
+<p><b>Stack</b>: react, redux, redux-toolkit, MongoDB, Express, eslint, prettier</p>
+<p><a href="http://patron4u-pet-app.netlify.app" target="_blank">Link to deploy</a></p><p><a href="https://github.com/OlgaVysochanska/project-patron4U" target="_blank">Link to repo</a></p>
 </details>
 
-<details>
+<!-- <details>
 <summary>Airbnb Clone</summary>
 <p><b>Description</b>: the clone of the popular renting and booking platform - Airbnb. Features: authorization and authentication (Email, Google, GitHub), search and filters, booking, trips, properties, favorites.</p>
 <p><b>Stack</b>: react, typescript, query-string, zustand, next.js 13, next-auth, prisma, mongoDB, tailwind CSS, eslint, prettier, husky, axios, react-hook-form, cloudinary, Google and GitHub auth</p>

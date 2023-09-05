@@ -1,5 +1,22 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hey+there!+I'm+Valentina)](https://git.io/typing-svg)
 
+### ✍️ About Me:
+
+🌍 I have a strong passion for development, and I believe that practice and work are crucial to achieving outstanding results. In my work, I prioritize the end goal and ensure that my output meets the client's expectations.
+
+📦 I initially held the position of a CEO in a local retail business. The onset of the war in Ukraine prompted me to reevaluate my life prospects, leading me to pursue a long-held aspiration for a career in IT. For more than a year, I've thrived in IT development, making significant strides and crafting an impressive portfolio of projects.
+
+👩‍💻 My areas of specialization include:
+
+<ul>
+  <li>🚀 Programming: Expertise in JavaScript, React, Node.js, and Express</li>
+  <li>🤝 Teamwork: Collaborative and skilled in cross-functional communication.</li>
+  <li>🌐 Communication: Effective in conveying ideas and collaborating with diverse teams.</li>
+  <li>💡 Problem-Solving: Persistent and adept at overcoming challenges.</li>
+  <li>🎯 Goal-Oriented: Focused on achieving objectives and delivering results.</li>
+  <li>🧠 Adaptability: Quick to adapt to new situations and eager to learn new skills.</li>
+</ul>
+
 ### 🛠 Tech Stack:
 
   <div id="stack">

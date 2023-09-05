@@ -72,7 +72,7 @@
 
 <p><b>Stack</b>:react, scss, react-hook-form, dnd, node express, mongoDB, mongoose, JWT, eslint, prettier</p>
 <p><a href="https://restio-front.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/ValentinaDej/restio-front" target="_blank">Link to repo front</a></p>
-p><p><a href="https://restio-server.onrender.com/" target="_blank">Link to repo back</a></p>
+p><p><a href="https://restio-server.onrender.com/" target="_blank">Link to repo back<a></p>
 </details>
 
 <!-- <details>

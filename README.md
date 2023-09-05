@@ -62,9 +62,17 @@
 
 <details>
 <summary>RestIO (team project)</summary>
-<p><b>Description</b>: Our project aims to develop a comprehensive restaurant management app inspired by the success of Dodo IS. This app will revolutionize the communication and ordering process between customers and restaurant staff, providing an innovative and convenient experience. With features such as QR code scanning, personalized profiles, and a user-friendly interface, customers can effortlessly browse the menu, place orders, make payments, and provide feedback. Full-stack app: front-end - React, back-end - Node Express. Final group project at ElifTech.</p>
+<p><b>Description</b>: Project aims to develop a comprehensive restaurant management app inspired by the success of Dodo IS. This app will revolutionize the communication and ordering process between customers and restaurant staff, providing an innovative and convenient experience. With features such as QR code scanning, personalized profiles, and a user-friendly interface, customers can effortlessly browse the menu, place orders, make payments, and provide feedback. Full-stack app: front-end - React, back-end - Node Express. Final group project at ElifTech.</p>
+<p><b>Login info</b>:</p>
+<p>admin - minerva@gmail.com, 54321Qwe</p>
+<p>cook - hagrid@gmail.com, 54321Qwe</p>
+<p>waiter - dobbi@gmail.com, 54321Qwe</p>
+<p><b>Customer page</b>:</p>
+<p>https://restio-front.netlify.app/64c9f7904626278155af5599/tables/64d60026d5749542294474bd</p>
+
 <p><b>Stack</b>:react, scss, react-hook-form, dnd, node express, mongoDB, mongoose, JWT, eslint, prettier</p>
-<p><a href=" https://restio-front.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/ValentinaDej/restio-front" target="_blank">Link to repo</a></p>
+<p><a href="https://restio-front.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/ValentinaDej/restio-front" target="_blank">Link to repo front</a></p>
+p><p><a href="https://restio-server.onrender.com/" target="_blank">Link to repo back</a></p>
 </details>
 
 <!-- <details>

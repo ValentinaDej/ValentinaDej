@@ -78,16 +78,16 @@
 <details>
 <summary>Patron4U (team project)</summary>
 <p><b>Description</b>: The app features a custom backend, responsive design, and a broad array of functionalities including user authentication, multi-theming, and extensive data handling.</p>
-<p><b>Stack</b>: react, redux, redux-toolkit, MongoDB, Express, eslint, prettier</p>
+<p><b>Stack</b>: react, redux, redux-toolkit, MongoDB, Express, cloudinary, Google auth, eslint, prettier</p>
 <p><a href="http://patron4u-pet-app.netlify.app" target="_blank">Link to deploy</a></p><p><a href="https://github.com/OlgaVysochanska/project-patron4U" target="_blank">Link to repo</a></p>
 </details>
 
-<!-- <details>
-<summary>Airbnb Clone</summary>
-<p><b>Description</b>: the clone of the popular renting and booking platform - Airbnb. Features: authorization and authentication (Email, Google, GitHub), search and filters, booking, trips, properties, favorites.</p>
-<p><b>Stack</b>: react, typescript, query-string, zustand, next.js 13, next-auth, prisma, mongoDB, tailwind CSS, eslint, prettier, husky, axios, react-hook-form, cloudinary, Google and GitHub auth</p>
-<p><a href="https://rent-app-elian-cheng.vercel.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/airbnb-clone" target="_blank">Link to repo</a></p>
-</details> -->
+<details>
+<summary>Food delivery</summary>
+<p><b>Description</b>: Restaurant aggregator app enabling food orders. It showcases eateries, menus, and facilitates easy ordering.</p>
+<p><b>Stack</b>: react, redux, mongoDB, express, axios, scss, Google Maps</p>
+<p><a href="https://fooddeliveryslk.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/ValentinaDej/delivery-food-front" target="_blank">Link to repo</a></p>
+</details>
 
 ### 🔗 Contacts:
 
@@ -96,20 +96,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safonikV@gmail.com)
 
 <!--
-**ValentinaDej/ValentinaDej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-2. Бек - https://restio-server.onrender.com/
-3. Доки/свагер - https://restio-server.onrender.com/api-docs/
-4. Корс настроєний, щоб приймати запити тільки з задеплоєного бека на https://restio-server.onrender.com/
-5. Дані для логіну:
-1) admin - minerva@gmail.com, 54321Qwe
-2) cook - hagrid@gmail.com, 54321Qwe
-3) waiter - dobbi@gmail.com, 54321Qwe
-6. Посилання на столик для тесту сторінки відвідувача - https://restio-front.netlify.app/64c9f7904626278155af5599/tables/64d60026d5749542294474bd
-
-- ⚡ Fun fact: ...
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge" />
   <img src="https://img.shields.io/badge/-Testing Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="testing-library badge" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next badge" />

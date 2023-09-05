@@ -58,6 +58,29 @@
     </div>
   </div>
 
+### 💼 Recent projects
+
+<details>
+<summary>RestIO (team project)</summary>
+<p><b>Description</b>: Our project aims to develop a comprehensive restaurant management app inspired by the success of Dodo IS. This app will revolutionize the communication and ordering process between customers and restaurant staff, providing an innovative and convenient experience. With features such as QR code scanning, personalized profiles, and a user-friendly interface, customers can effortlessly browse the menu, place orders, make payments, and provide feedback. Full-stack app: front-end - React, back-end - Node Express. Final group project at ElifTech.</p>
+<p><b>Stack</b>:react, scss, react-hook-form, dnd, node express, mongoDB, mongoose, JWT, eslint, prettier</p>
+<p><a href=" https://restio-front.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/ValentinaDej/restio-front" target="_blank">Link to repo</a></p>
+</details>
+
+<!-- <details>
+<summary>GraphiQL App (team project)</summary>
+<p><b>Description</b>: GraphQL browser plugin clone with additional features, like localization and user auth.</p>
+<p><b>Stack</b>: react, typescript, mui, react-hook-form, yup, redux, redux-toolkit, graphql, firebase auth, codemirror, i18next, eslint, prettier</p>
+<p><a href="https://elian-cheng-graphiql.netlify.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/graphiql-app" target="_blank">Link to repo</a></p>
+</details>
+
+<details>
+<summary>Airbnb Clone</summary>
+<p><b>Description</b>: the clone of the popular renting and booking platform - Airbnb. Features: authorization and authentication (Email, Google, GitHub), search and filters, booking, trips, properties, favorites.</p>
+<p><b>Stack</b>: react, typescript, query-string, zustand, next.js 13, next-auth, prisma, mongoDB, tailwind CSS, eslint, prettier, husky, axios, react-hook-form, cloudinary, Google and GitHub auth</p>
+<p><a href="https://rent-app-elian-cheng.vercel.app/" target="_blank">Link to deploy</a></p><p><a href="https://github.com/elian-cheng/airbnb-clone" target="_blank">Link to repo</a></p>
+</details> -->
+
 ### 🔗 Contacts:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-dei/)
@@ -69,13 +92,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+2. Бек - https://restio-server.onrender.com/
+3. Доки/свагер - https://restio-server.onrender.com/api-docs/
+4. Корс настроєний, щоб приймати запити тільки з задеплоєного бека на https://restio-server.onrender.com/
+5. Дані для логіну:
+1) admin - minerva@gmail.com, 54321Qwe
+2) cook - hagrid@gmail.com, 54321Qwe
+3) waiter - dobbi@gmail.com, 54321Qwe
+6. Посилання на столик для тесту сторінки відвідувача - https://restio-front.netlify.app/64c9f7904626278155af5599/tables/64d60026d5749542294474bd
+
 - ⚡ Fun fact: ...
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge" />
   <img src="https://img.shields.io/badge/-Testing Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="testing-library badge" />
